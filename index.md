@@ -21,13 +21,25 @@ Welcome to the official website of Tarnovski Consulting - your trusted Markit ED
   </div>
 </div>
 
-### Core Services
+## Core Services
 
 - Markit EDM / S&P EDM Consulting
 - Enterprise Data Management
 - Security Master Design and Development
 - Sourcing data from Bloomberg, IBM, Morningstar, S&P, and other feeds
 - Markid EDM user interface implementation (Web UI)
+
+## What We Offer
+
+Our consulting services are designed to help businesses achieve their goals:
+
+- **[Markit EDM Consulting](markit-edm-consulting.md)**: Complete implementation and optimization of Enterprise Data Manager
+- **Strategic Planning**: Comprehensive business strategy development
+- **Process Optimization**: Streamlining operations for maximum efficiency  
+- **Business Analysis**: Data-driven insights for informed decisions
+- **Project Management**: End-to-end project delivery excellence
+
+[View our complete Markit EDM services →](markit-edm-consulting.md)
 
 ## Why Choose Tarnovski Consulting?
 
