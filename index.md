@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Tarnovski Consulting
+title: Tarnovski Consulting - Markit EDM Consulting
+description: "Expert Markit EDM consulting and strategic business advisory services. Transform your business with data-driven solutions and proven methodologies."
+keywords: "Markit EDM consulting, business strategy, data management, process optimization, enterprise consulting"
 ---
 
 # Welcome to Tarnovski Consulting
