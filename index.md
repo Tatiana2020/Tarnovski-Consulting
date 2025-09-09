@@ -39,4 +39,4 @@ This project is private and proprietary to Tarnovski Consulting.
 
 © 2025 Tarnovski Consulting. All rights reserved.
 
-**Last Updated**: September 2024
+**Last Updated**: September 2025
