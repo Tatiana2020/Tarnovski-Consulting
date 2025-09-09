@@ -19,7 +19,7 @@ lang: en-US
 plugins:
   - jekyll-seo-tag
 
-# Additional SEO content (ADD THESE)
+# Additional SEO content 
 tagline: "Expert Markit EDM consulting and strategic business advisory services"
 keywords: "Markit EDM, business consulting, strategic planning, process optimization, data management, financial consulting, enterprise data management"
 
