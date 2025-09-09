@@ -12,12 +12,22 @@ Welcome to the official website of Tarnovski Consulting - your trusted Markit ED
 ## About Us
 
 <div style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem 0; flex-wrap: wrap;">
-  <img src="images/vitali-profile.jpeg" alt="Vitali Tarnovski - Professional Consultant" 
+  <img src="images/vitali-profile.jpeg" alt="Vitali Tarnovski - Principal Consultant & Founder" 
        style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   <div style="flex: 1; min-width: 300px;">
     <p><strong>Vitali Tarnovski - Principal Consultant & Founder</strong></p>
     <p>Vitali is a MarkitEDM expert, whose clients included TD Securities, CPP Investment Board, Manulife, Ontario Teachers Pension Plan, and PSP Investments.</p>
     <p>Vitali worked as a Lead Consultant, providing expertise in Enterprise Data Management domain using Markit / S&P EDM as core technology, designed and developed security master, sourcing data from Bloomberg, IBM, Morningstar, S&P, and other feeds, built Markit EDM user interface (Web UI). </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem 0; flex-wrap: wrap;">
+  <img src="images/tatiana-profile.jpeg" alt="Tatiana Tarnovskaya - Head of Software Engineering & AI Innovation" 
+       style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <div style="flex: 1; min-width: 300px;">
+    <p><strong>Tatiana Tarnovskaya - Head of Software Engineering & AI Innovation</strong></p>
+    <p>Tatiana is a strategic and results-driven software engineering leader with extensive experience at Intuit, Nasdaq, and West Corp. She has led high-performing, globally distributed teams to deliver enterprise-scale software solutions, accelerating product growth and driving measurable business results.</p>
+    <p>At Tarnovski Consulting, Tatiana focuses on AI-powered innovation, bringing expertise in large language models and platform engineering to create secure, efficient, and user-friendly applications.</p>
   </div>
 </div>
 
