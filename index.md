@@ -10,7 +10,7 @@ Welcome to the official website of Tarnovski Consulting - your trusted Markit ED
 ## About Vitali Tarnovski
 
 <div style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem 0; flex-wrap: wrap;">
-  <img src="images/vitali-profile.jpg" alt="Vitali Tarnovski - Professional Consultant" 
+  <img src="images/vitali-profile.jpeg" alt="Vitali Tarnovski - Professional Consultant" 
        style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   <div style="flex: 1; min-width: 300px;">
     <p><strong>Principal Consultant & Founder</strong></p>
@@ -38,8 +38,6 @@ Ready to take your business to the next level? Let's discuss how we can help.
 - **Email**: Coming soon...
 - **LinkedIn**: [https://www.linkedin.com/in/vitalitarnovski/](https://www.linkedin.com/in/vitalitarnovski/)
 - **Phone**: Coming soon...
-
-This project is private and proprietary to Tarnovski Consulting.
 
 ---
 
