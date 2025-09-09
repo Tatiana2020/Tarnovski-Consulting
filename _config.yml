@@ -1,6 +1,6 @@
 # Site settings
 title: Tarnovski Consulting
-description: Your trusted partner for professional consulting services
+description: Your trusted Markit EDM Consultant
 baseurl: "/Tarnovski-Consulting" # the subpath of your site, e.g. /blog
 url: "https://tatiana2020.github.io" # the base hostname & protocol for your site
 
@@ -23,6 +23,7 @@ plugins:
 github:
   repository_name: Tarnovski-Consulting
   repository_url: https://github.com/Tatiana2020/Tarnovski-Consulting
+  is_project_page: false
 
 # Social links (optional)
 linkedin_url: https://www.linkedin.com/in/vitalitarnovski/
