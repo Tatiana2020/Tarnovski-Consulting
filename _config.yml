@@ -1,0 +1,28 @@
+# Site settings
+title: Tarnovski Consulting
+description: Your trusted partner for professional consulting services
+baseurl: "/Tarnovski-Consulting" # the subpath of your site, e.g. /blog
+url: "https://tatiana2020.github.io" # the base hostname & protocol for your site
+
+# Theme
+theme: jekyll-theme-cayman
+# Alternative remote theme (use if above doesn't work)
+# remote_theme: pages-themes/cayman@v0.2.0
+
+# Site author
+author:
+  name: Vitali Tarnovski
+  email: your-email@example.com
+
+# SEO settings
+lang: en-US
+plugins:
+  - jekyll-seo-tag
+
+# GitHub Pages settings
+github:
+  repository_name: Tarnovski-Consulting
+  repository_url: https://github.com/Tatiana2020/Tarnovski-Consulting
+
+# Social links (optional)
+linkedin_url: https://www.linkedin.com/in/vitalitarnovski/
