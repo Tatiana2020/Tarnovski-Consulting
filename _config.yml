@@ -19,6 +19,10 @@ lang: en-US
 plugins:
   - jekyll-seo-tag
 
+# Additional SEO content (ADD THESE)
+tagline: "Expert Markit EDM consulting and strategic business advisory services"
+keywords: "Markit EDM, business consulting, strategic planning, process optimization, data management, financial consulting, enterprise data management"
+
 # GitHub Pages settings
 github:
   repository_name: Tarnovski-Consulting
