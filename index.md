@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Tarnovski Consulting
 ---
 
 # Welcome to Tarnovski Consulting
