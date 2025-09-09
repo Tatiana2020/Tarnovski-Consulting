@@ -25,8 +25,7 @@ Welcome to the official website of Tarnovski Consulting - your trusted Markit ED
        style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   <div style="flex: 1; min-width: 300px;">
     <p><strong>Tatiana Tarnovskaya - Head of Software Engineering & AI Innovation</strong></p>
-    <p>Tatiana is a strategic and results-driven software engineering leader with extensive experience at Intuit, Nasdaq, and West Corp. She has led high-performing, globally distributed teams to deliver enterprise-scale software solutions, accelerating product growth and driving measurable business results.</p>
-    <p>At Tarnovski Consulting, Tatiana focuses on AI-powered innovation, bringing expertise in large language models and platform engineering to create secure, efficient, and user-friendly applications.</p>
+    <p>Tatiana is a strategic and results-driven software engineering leader with extensive experience at Intuit, Nasdaq, and West Corp. She has led high-performing, globally distributed teams to deliver enterprise-scale software solutions, accelerating product growth and driving measurable business results. At Tarnovski Consulting, Tatiana focuses on AI-powered innovation, bringing expertise in large language models and platform engineering to create secure, efficient, and user-friendly applications.</p>
   </div>
 </div>
 
