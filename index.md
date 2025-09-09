@@ -10,39 +10,6 @@ keywords: "Markit EDM consulting, business strategy, data management, process op
 Welcome to the official website of Tarnovski Consulting - your trusted Markit EDM Consultant.
 
 ## About Us
-
-<style>
-  .about-us {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 2rem;
-    margin: 2rem 0;
-  }
-
-  .profile-card {
-    flex: 1;
-    min-width: 300px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: left;
-    max-width: 400px;
-  }
-
-  .profile-card img {
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
-    object-fit: cover;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-    margin-bottom: 1rem;
-  }
-
-  .profile-card strong {
-    font-size: 1.1rem;
-  }
-</style>
-
 <div class="about-us">
   <div class="profile-card">
     <img src="images/vitali-profile.jpeg" alt="Vitali Tarnovski - Principal Consultant & Founder">
