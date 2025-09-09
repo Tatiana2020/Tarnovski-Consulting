@@ -1,4 +1,4 @@
-## What We Offer
+## Tarnovski Consulting - What We Offer
 
 Our consulting services specialize in **Markit EDM** and strategic business solutions:
 
