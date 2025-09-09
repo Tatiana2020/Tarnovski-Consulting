@@ -9,13 +9,13 @@ keywords: "Markit EDM consulting, business strategy, data management, process op
 
 Welcome to the official website of Tarnovski Consulting - your trusted Markit EDM Consultant.
 
-## About Vitali Tarnovski
+## About Us
 
 <div style="display: flex; align-items: flex-start; gap: 2rem; margin: 2rem 0; flex-wrap: wrap;">
   <img src="images/vitali-profile.jpeg" alt="Vitali Tarnovski - Professional Consultant" 
        style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   <div style="flex: 1; min-width: 300px;">
-    <p><strong>Principal Consultant & Founder</strong></p>
+    <p><strong>Vitali Tarnovski - Principal Consultant & Founder</strong></p>
     <p>Vitali is a MarkitEDM expert, whose clients included TD Securities, CPP Investment Board, Manulife, Ontario Teachers Pension Plan, and PSP Investments.</p>
     <p>Vitali worked as a Lead Consultant, providing expertise in Enterprise Data Management domain using Markit / S&P EDM as core technology, designed and developed security master, sourcing data from Bloomberg, IBM, Morningstar, S&P, and other feeds, built Markit EDM user interface (Web UI). </p>
   </div>
@@ -39,7 +39,7 @@ Our consulting services are designed to help businesses achieve their goals:
 - **Business Analysis**: Data-driven insights for informed decisions
 - **Project Management**: End-to-end project delivery excellence
 
-[View our complete Markit EDM services →](markit-edm-consulting.md)
+[View our complete Markit EDM services](markit-edm-consulting.md)
 
 ## Why Choose Tarnovski Consulting?
 
@@ -49,8 +49,8 @@ Vitali has a proven experience delivering MarkitEDM solutions in TD Securities, 
 
 Ready to take your business to the next level? Let's discuss how we can help.
 
+- **[LinkedIn Profile](https://www.linkedin.com/in/vitalitarnovski/)**
 - **Email**: Coming soon...
-- **LinkedIn**: [https://www.linkedin.com/in/vitalitarnovski/](https://www.linkedin.com/in/vitalitarnovski/)
 - **Phone**: Coming soon...
 
 ---
