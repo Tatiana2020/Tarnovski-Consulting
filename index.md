@@ -5,27 +5,25 @@ title: Tarnovski Consulting
 
 # Welcome to Tarnovski Consulting
 
-Welcome to the official website of Tarnovski Consulting - your trusted partner for professional consulting services.
+Welcome to the official website of Tarnovski Consulting - your trusted Markit EDM Consultant.
 
 ## About Vitali Tarnovski
 
-Coming soon...
+Vitali is a MarkitEDM expert, whose clients included TD Securities, CPP Investment Board, Manulife, Ontario Teachers Pension Plan, and PSP Investments. 
 
-### Professional Background
-
-Coming soon...
+Vitali worked as a Lead Consultant, providing expertise in Enterprise Data Management domain using Markit / S&P EDM as core technology, designed and developed security master, sourcing data from Bloomberg, IBM, Morningstar, S&P, and other feeds, built Markit EDM user interface (Web UI). 
 
 ### Core Services
 
-Coming soon...
-
-## What We Offer
-
-Coming soon...
+- Markit EDM / S&P EDM Consulting
+- Enterprise Data Management
+- Security Master Design and Development
+- Sourcing data from Bloomberg, IBM, Morningstar, S&P, and other feeds
+- Markid EDM user interface implementation (Web UI)
 
 ## Why Choose Tarnovski Consulting?
 
-Coming soon...
+Vitali has a proven experience delivering MarkitEDM solutions in TD Securities, CPP Investment Board, Manulife, Ontario Teachers Pension Plan, and PSP Investments.
 
 ## Get In Touch
 
