@@ -55,11 +55,7 @@ Vitali has a proven experience delivering MarkitEDM solutions in TD Securities, 
 
 ## Get In Touch
 
-Ready to take your business to the next level? Let's discuss how we can help.
-
-- **[LinkedIn Profile](https://www.linkedin.com/in/vitalitarnovski/)**
-- **Email**: Coming soon...
-- **Phone**: Coming soon...
+Ready to take your business to the next level? Let's discuss how we can help - reached out via **[LinkedIn](https://www.linkedin.com/in/vitalitarnovski/)**
 
 ---
 
