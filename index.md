@@ -15,7 +15,7 @@ Welcome to the official website of Tarnovski Consulting - your trusted Markit ED
        style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   <div style="flex: 1; min-width: 300px;">
     <p><strong>Vitali Tarnovski - Principal Consultant & Founder</strong></p>
-    <p>Vitali is a Markit EDM / S&P EDM expert. He has led consulting engagements for leading financial institutions including TD Securities, CPP Investment Board, Manulife, Ontario Teachers’ Pension Plan, and PSP Investments. Vitali has extensive experience designing and implementing security master solutions, integrating market data from providers such as Bloomberg, IBM, Morningstar, and S&P, and building custom Markit EDM user interfaces to improve usability and efficiency.</p>
+    <p>Vitali is a Markit EDM / S&P EDM expert. He has led consulting engagements for leading financial institutions including TD Securities, CPP Investment Board, Manulife, Ontario Teachers’ Pension Plan, and PSP Investments, designing and implementing security master solutions, integrating market data from providers such as Bloomberg, IBM, Morningstar, and S&P, and building custom Markit EDM user interfaces to improve usability and efficiency.</p>
   </div>
 </div>
 
