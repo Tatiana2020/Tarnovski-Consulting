@@ -2,7 +2,7 @@
 title: Tarnovski Consulting
 description: Your trusted Markit EDM Consultant
 baseurl: "/Tarnovski-Consulting" # the subpath of your site, e.g. /blog
-url: "https://tatiana2020.github.io" # the base hostname & protocol for your site
+url: "https://tarnovskiconsulting.com" # the base hostname & protocol for your site
 
 # Theme
 theme: jekyll-theme-cayman
