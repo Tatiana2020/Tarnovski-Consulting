@@ -1,7 +1,7 @@
 # Site settings
 title: Tarnovski Consulting
 description: Your trusted Markit EDM Consultant
-baseurl: "/Tarnovski-Consulting" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tarnovskiconsulting.com" # the base hostname & protocol for your site
 
 # Theme
