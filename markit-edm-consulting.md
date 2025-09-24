@@ -1,6 +1,6 @@
 ## Tarnovski Consulting - What We Offer
 
-Our consulting services specialize in **Markit EDM** and strategic business solutions:
+Our consulting services specialize in **Markit EDM / S&P EDM** and strategic business solutions:
 
 - **Markit EDM Implementation**: Complete setup, configuration, and optimization of Markit Enterprise Data Manager
 - **Data Management Strategy**: Comprehensive data governance and management frameworks
