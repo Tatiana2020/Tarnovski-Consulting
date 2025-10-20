@@ -1,4 +1,10 @@
-# Razmova Privacy Policy
+---
+layout: default
+title: Razmova
+description: "Privacy Policy"
+---
+
+# Privacy Policy
 
 _Last Updated: October 20th, 2025_
 
