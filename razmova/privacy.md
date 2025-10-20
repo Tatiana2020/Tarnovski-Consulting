@@ -1,4 +1,4 @@
-# Privacy Policy
+# Razmova Privacy Policy
 
 _Last Updated: October 20th, 2025_
 
