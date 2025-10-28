@@ -35,7 +35,7 @@ Welcome to the official website of Tarnovski Consulting - your trusted Markit ED
 - Enterprise Data Management
 - Security Master Design and Development
 - Sourcing data from Bloomberg, IBM, Morningstar, S&P, and other feeds
-- Markid EDM user interface implementation (Web UI)
+- Markit EDM user interface implementation (Web UI)
 
 ## What We Offer
 
