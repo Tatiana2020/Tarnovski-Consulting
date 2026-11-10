@@ -1,0 +1,7 @@
+# tarnovskiconsulting.com — everything here is public marketing copy.
+# AI assistants are welcome: being quoted accurately is the point.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://tarnovskiconsulting.com/sitemap.xml
