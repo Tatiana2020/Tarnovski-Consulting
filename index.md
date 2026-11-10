@@ -24,7 +24,7 @@ Welcome to the official website of Tarnovski Consulting - your trusted Markit ED
   <img src="images/TatianaTarnovskaya.jpeg" alt="Tatiana Tarnovskaya - Co-founder and Lead Developer" 
        style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   <div style="flex: 1; min-width: 300px;">
-    <p><strong>Tatiana Tarnovskaya - Co-founder & Lead Developer - Razmova</strong></p>
+    <p><strong>Tatiana Tarnovskaya - Founder & Lead Developer - Razmova</strong></p>
     <p>Tatiana is a strategic and results-driven software engineering leader with extensive experience at Intuit, Nasdaq, and West Corp. At Tarnovski Consulting, Tatiana focuses on AI-powered innovation, bringing expertise in large language models and platform engineering to create secure, efficient, and user-friendly applications.</p>
   </div>
 </div>
